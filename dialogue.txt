@@ -1,0 +1,16 @@
+1. Dialog 
+
+It is  a small window that prompts user to take decision or enter additional information .
+
+2. Create Custom dialogue 
+create a customdialog class  and extend dialog class.
+create views in layout file like buttons and set onclick listener .
+usung dialog.show , you can display the custom dialogue.
+
+3. existing dialog
+Using AlertDialoge.builder create a object , once object is created use setpositive and negative options and perform operations on click of the events .
+You can also use setCancellable when presses anything outside the dialoge window.
+
+Once sone craete the dialoge and show .
+
+ 
